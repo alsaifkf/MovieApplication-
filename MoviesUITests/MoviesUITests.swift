@@ -2,8 +2,8 @@
 //  MoviesUITests.swift
 //  MoviesUITests
 //
-//  Created by Gabaj, Mustafa on 10/5/16.
-//  Copyright © 2016 Gabaj, Mustafa. All rights reserved.
+//  Created by alsaif, khalid  on 10/5/16.
+//  Copyright © 2016 alsaif, khalid. All rights reserved.
 //
 
 import XCTest

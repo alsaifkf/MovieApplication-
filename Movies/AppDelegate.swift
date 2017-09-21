@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Movies
 //
-//  Created by Gabaj, Mustafa on 10/5/16.
+//  Created by alsiaf , khalid on 10/5/16.
 //  Copyright © 2016 Gabaj, Mustafa. All rights reserved.
 //
 
